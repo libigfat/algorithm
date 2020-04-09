@@ -5,6 +5,5 @@
 使用python实现
 不定时更新
 
-### 特别感谢
-
-特别感谢Myo手环社区的Niklas Rosenstein开源了一个Myo-Python库，它可以将Myo手环与电脑连接，库地址https://github.com/NiklasRosenstein/myo-python
+### 字符串拼接检测问题
+思路参考https://blog.csdn.net/Hairy_Monsters/article/details/80492802
