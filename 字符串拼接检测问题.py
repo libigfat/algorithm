@@ -60,5 +60,5 @@ def test_str(s1, s2, s3):
     return False
 
 
-a = test_str(s1, s2, s3)
-print(a)
+result = test_str(s1, s2, s3)
+print(result)
