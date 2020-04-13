@@ -14,8 +14,10 @@
 
 视频参考
 
-李永乐老师：https://www.bilibili.com/video/BV1KE41137PK
+李永乐老师https://www.bilibili.com/video/BV1KE41137PK
 
-闫学灿老师：https://www.acwing.com/video/866/
+闫学灿老师https://www.acwing.com/video/866/
 
-力扣原题：https://leetcode-cn.com/problems/super-egg-drop/
+思路参考
+
+力扣原题https://leetcode-cn.com/problems/super-egg-drop/
